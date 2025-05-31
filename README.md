@@ -11,4 +11,4 @@
 
 ## 📊 GitHub Stats
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark)
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=broken-usb&show_icons=true&theme=github_dark)
