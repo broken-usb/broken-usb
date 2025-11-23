@@ -1,9 +1,10 @@
 # broken-usb
 
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![mikroBasic](https://img.shields.io/badge/mikroBasic-FF6600?style=for-the-badge)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![mikroBasic](https://img.shields.io/badge/mikroBasic-FF6600?logo=mikrotik&logoColor=white)
 
 ## GitHub Stats
 
